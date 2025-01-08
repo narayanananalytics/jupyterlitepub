@@ -12,3 +12,4 @@ dependencies:
   - simpy
   - xeus-python
   - plotly
+  - jupyterlab-geojson
