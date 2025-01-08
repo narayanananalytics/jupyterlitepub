@@ -13,4 +13,4 @@ dependencies:
   - xeus-python
   - plotly
   - jupyterlab-geojson
-  - osmnx
+  - piplite
